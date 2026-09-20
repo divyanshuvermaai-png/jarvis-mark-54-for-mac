@@ -1,0 +1,398 @@
+JARVIS MARK 54
+PROPRIETARY SOURCE-AVAILABLE SOFTWARE LICENSE
+Version 1.0 — 2026
+
+Copyright © 2026 Divyanshu Verma. All Rights Reserved.
+
+Project: JARVIS Mark 54
+Author / Copyright Holder: Divyanshu Verma
+License Version: 1.0
+Effective Date: 20 September 2026
+
+1. DEFINITIONS
+
+For purposes of this License:
+
+"Software" means the JARVIS Mark 54 source code, object code, binaries,
+configuration files, scripts, modules, libraries created specifically for the
+Project, documentation, interfaces, workflows, and other original materials
+distributed as part of this repository.
+
+"Project" means JARVIS Mark 54 and its associated source code, documentation,
+architecture, configuration, original assets, and related materials.
+
+"Copyright Holder" means Divyanshu Verma, the original author and owner of
+the Project unless ownership is expressly transferred in writing.
+
+"User" means any individual or legal entity accessing, downloading, copying,
+studying, modifying, or otherwise using the Software.
+
+"Derivative Work" means any modified, adapted, translated, extended, merged,
+or otherwise altered version of the Software or any substantial portion of it.
+
+"Commercial Use" means any use intended primarily for commercial advantage,
+monetary compensation, revenue generation, paid services, commercial
+products, SaaS offerings, enterprise deployments, consulting services,
+resale, licensing, or other business activity.
+
+2. LICENSE GRANT
+
+Subject to the terms and conditions of this License, the Copyright Holder
+grants the User a limited, non-exclusive, non-transferable, revocable,
+worldwide license to:
+
+a. view and inspect the source code;
+
+b. download and install the Software for personal, educational, research,
+testing, and non-commercial purposes;
+
+c. run the Software for personal, educational, research, and testing purposes;
+
+d. modify the Software for personal, educational, research, and testing
+purposes;
+
+e. create private Derivative Works for the purposes described above; and
+
+f. contribute improvements through the official Project repository or through
+another channel expressly authorized by the Copyright Holder.
+
+This license does not constitute a transfer or assignment of ownership of the
+Software or any intellectual property belonging to the Copyright Holder.
+
+3. NON-COMMERCIAL USE
+
+Users may use, study, modify, and experiment with the Software for
+non-commercial purposes provided that:
+
+a. this License remains included with the Software;
+
+b. existing copyright and attribution notices are preserved;
+
+c. the User does not represent the Software or a Derivative Work as an
+official product of the Copyright Holder;
+
+d. the User does not remove or intentionally obscure authorship information;
+
+e. the User does not use the Project's branding to imply endorsement,
+partnership, sponsorship, or authorization; and
+
+f. the User complies with all applicable third-party licenses.
+
+4. COMMERCIAL USE RESTRICTION
+
+Commercial Use of the Software is NOT permitted under this License without
+prior written permission from the Copyright Holder.
+
+Without limiting the foregoing, the following activities require separate
+written authorization:
+
+a. selling the Software or a Derivative Work;
+
+b. incorporating substantial portions of the Software into a commercial
+product or service;
+
+c. offering the Software as a hosted service, SaaS, API, or paid platform;
+
+d. using the Software within a commercial AI assistant, automation platform,
+enterprise product, or other revenue-generating system;
+
+e. sublicensing or relicensing the Software;
+
+f. distributing paid binaries or packaged versions containing the Software;
+
+g. using the Software to provide paid services to third parties; or
+
+h. using the Software in a commercial organization beyond internal
+evaluation, research, or testing.
+
+Commercial licensing may be granted separately by the Copyright Holder under
+terms agreed in writing.
+
+5. REDISTRIBUTION
+
+Redistribution of the Software or substantial portions thereof is permitted
+only for non-commercial purposes and only when all of the following
+conditions are satisfied:
+
+a. this License is included with the redistributed Software;
+
+b. copyright notices are preserved;
+
+c. attribution to Divyanshu Verma is retained;
+
+d. the distributor clearly identifies any substantial modifications;
+
+e. the distributor does not claim ownership of the original Project; and
+
+f. the redistribution does not imply that it is an official release of
+JARVIS Mark 54.
+
+Redistribution through commercial marketplaces, paid repositories,
+subscription services, software stores, or similar commercial channels
+requires prior written permission.
+
+6. DERIVATIVE WORKS
+
+Users may create Derivative Works for permitted non-commercial purposes.
+
+Derivative Works must:
+
+a. retain the original copyright notice;
+
+b. retain this License or a substantially equivalent notice;
+
+c. identify significant modifications;
+
+d. clearly distinguish the Derivative Work from the official JARVIS Mark 54
+Project; and
+
+e. not falsely claim that the Derivative Work was created, maintained,
+endorsed, or officially released by Divyanshu Verma.
+
+Creating a Derivative Work does not transfer ownership of the original
+Software or its intellectual property to the User.
+
+7. PROJECT NAME AND BRANDING
+
+The names:
+
+"JARVIS"
+"JARVIS Mark 54"
+"Mark 54"
+and any associated logos, icons, visual identity, designs, slogans, artwork,
+product names, and branding
+
+are NOT automatically licensed for commercial branding purposes by this
+License.
+
+Unless separately authorized in writing, Users may not:
+
+a. register a trademark containing the Project's protected branding;
+
+b. create a commercial product using "JARVIS Mark 54" as its primary product
+name;
+
+c. represent a modified project as the official JARVIS Mark 54;
+
+d. use the Project's logos or visual identity in a manner suggesting
+endorsement or affiliation;
+
+e. claim that the Copyright Holder sponsors or endorses a Derivative Work; or
+
+f. use the Project's branding to mislead users regarding the origin of the
+Software.
+
+Descriptive references to the Project for purposes such as documentation,
+academic discussion, reviews, compatibility statements, or attribution are
+permitted where legally applicable.
+
+8. ATTRIBUTION
+
+Any permitted redistribution or substantial Derivative Work must retain an
+appropriate attribution substantially similar to:
+
+"Based on JARVIS Mark 54 by Divyanshu Verma."
+
+Attribution must not be presented in a manner that suggests endorsement,
+partnership, or sponsorship by the Copyright Holder.
+
+9. CONTRIBUTIONS
+
+Unless otherwise agreed in writing, any contribution submitted to the
+official Project repository may be used, modified, distributed, and
+incorporated into the Project by the Copyright Holder under the applicable
+Project licensing terms.
+
+By submitting a contribution, the contributor represents that:
+
+a. they have the legal right to submit the contribution;
+
+b. the contribution does not knowingly violate another party's intellectual
+property rights; and
+
+c. they have complied with any applicable third-party license requirements.
+
+Nothing in this section transfers ownership of unrelated intellectual
+property belonging to the contributor.
+
+10. THIRD-PARTY COMPONENTS
+
+The Project may depend upon or interact with third-party software, APIs,
+models, datasets, services, libraries, frameworks, fonts, media, or other
+components.
+
+Such third-party components are NOT automatically covered by this License.
+
+Each third-party component remains subject to its own license, terms of
+service, intellectual property rights, and usage restrictions.
+
+Users are solely responsible for reviewing and complying with applicable
+third-party terms.
+
+Where reasonably practicable, the Project should identify applicable
+third-party components and their respective licenses in the repository.
+
+11. ARTIFICIAL INTELLIGENCE MODELS AND SERVICES
+
+Where the Software uses third-party or locally hosted artificial intelligence
+models, APIs, inference engines, datasets, or AI services, this License does
+not grant ownership of or additional rights to those systems.
+
+Users must comply with the applicable terms, usage policies, licenses, and
+restrictions imposed by the respective model or service provider.
+
+The Copyright Holder makes no representation that any third-party AI service
+will remain available, compatible, or licensed for any particular use.
+
+12. PRIVACY AND USER RESPONSIBILITY
+
+The Software may provide functionality capable of interacting with a
+computer, operating system, files, applications, networks, accounts, APIs,
+or external services.
+
+Users are responsible for:
+
+a. configuring appropriate permissions;
+
+b. protecting credentials, tokens, API keys, and personal information;
+
+c. reviewing actions performed by the Software;
+
+d. complying with applicable laws and platform policies; and
+
+e. ensuring that their use of the Software is appropriate for their
+environment.
+
+The Copyright Holder is not responsible for misuse, unauthorized access,
+data loss, security incidents, account restrictions, or damage resulting
+from a User's deployment or modification of the Software.
+
+13. SECURITY
+
+Nothing in this License grants permission to bypass security controls,
+access systems without authorization, obtain credentials unlawfully, deploy
+malware, conduct unauthorized surveillance, or otherwise violate applicable
+law.
+
+The Software may provide legitimate automation or system-control features,
+but Users remain responsible for using those features lawfully and
+appropriately.
+
+14. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER
+DISCLAIMS ALL WARRANTIES, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT,
+ACCURACY, RELIABILITY, SECURITY, AND AVAILABILITY.
+
+THE COPYRIGHT HOLDER DOES NOT WARRANT THAT THE SOFTWARE WILL BE ERROR-FREE,
+SECURE, UNINTERRUPTED, OR COMPATIBLE WITH EVERY SYSTEM OR ENVIRONMENT.
+
+15. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER
+SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+CONSEQUENTIAL, EXEMPLARY, OR OTHER DAMAGES ARISING FROM OR RELATED TO THE
+USE OF, INABILITY TO USE, MODIFICATION, DISTRIBUTION, OR DEPLOYMENT OF THE
+SOFTWARE.
+
+THIS INCLUDES, WITHOUT LIMITATION, LOSS OF DATA, LOSS OF PROFITS, LOSS OF
+BUSINESS, SYSTEM DAMAGE, SERVICE INTERRUPTION, SECURITY INCIDENTS, OR OTHER
+COMMERCIAL OR NON-COMMERCIAL LOSSES.
+
+16. TERMINATION
+
+This License automatically terminates if the User materially violates its
+terms.
+
+Upon termination, the User must cease all use and distribution of the
+Software except where continued use is independently permitted by applicable
+law or another valid license.
+
+Termination does not automatically terminate rights that cannot legally be
+terminated under applicable law.
+
+Sections concerning intellectual property, branding, attribution,
+disclaimers, limitation of liability, and other provisions intended by their
+nature to survive termination shall survive termination.
+
+17. INTELLECTUAL PROPERTY
+
+Except for third-party components, all original copyrightable material
+contained within the Project remains the property of the Copyright Holder
+unless expressly stated otherwise.
+
+Nothing in this License:
+
+a. transfers ownership of the Software;
+
+b. transfers ownership of trademarks or branding;
+
+c. grants patent rights beyond those expressly stated;
+
+d. grants rights to proprietary assets not included within the Software; or
+
+e. prevents the Copyright Holder from separately licensing the Software
+under different terms.
+
+The Copyright Holder reserves all rights not expressly granted by this
+License.
+
+18. RESERVATION OF RIGHTS
+
+All rights not expressly granted under this License are reserved by the
+Copyright Holder.
+
+The absence of a restriction in one section should not be interpreted as a
+grant of rights elsewhere in the Software.
+
+19. CHANGES TO THE LICENSE
+
+The Copyright Holder may publish future versions of this License.
+
+Each version will be identified by a version number.
+
+Unless explicitly stated otherwise, existing users will continue to be
+governed by the version under which their copy of the Software was obtained,
+subject to applicable law.
+
+The Copyright Holder may release future versions of the Project under
+different licensing terms.
+
+20. GOVERNING LAW
+
+This License shall be interpreted and enforced in accordance with the
+applicable laws and jurisdiction designated by the Copyright Holder, subject
+to mandatory provisions of applicable law.
+
+For an official commercial distribution, the Copyright Holder may provide a
+separate written agreement specifying governing law, jurisdiction,
+commercial terms, warranties, support obligations, and other conditions.
+
+21. ENTIRE LICENSE
+
+This License constitutes the complete license governing the rights expressly
+granted to Users concerning the Software, except where a separate written
+agreement or applicable third-party license governs a particular component.
+
+If any provision of this License is determined to be invalid or
+unenforceable, the remaining provisions shall remain in effect to the
+maximum extent permitted by law.
+
+22. CONTACT AND LICENSING
+
+For commercial licensing, permissions, partnership requests, or other
+licensing matters, contact the Copyright Holder through the official contact
+information provided in the Project repository.
+
+Official Project:
+
+JARVIS Mark 54
+
+Copyright © 2026 Divyanshu Verma
+All Rights Reserved.
+
+END OF LICENSE
